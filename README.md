@@ -9,5 +9,5 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 ### Repo's 
 Na
 ## Stats
-<script src='https://saurabhdaware.github.io/github-profile-card/card.js'></script>
-<div username='Darkfire126' repos='all' class='github-card' id='card'></div>
+<div class="github-card" data-github="Darkfire126" data-width="400" data-height="" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
