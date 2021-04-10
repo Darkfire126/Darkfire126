@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkfire126" alt="darkfire126" /></a> </p>
 
-- Hi, I am working on a discord bot **Idk the name of it yet**
+- Hi, I am working on a website for https://www.instagram.com/imposta_studio/
 
 - I am studing **React**
 
-- I am working on a website **None-Dev.com**
 
 - Fun fact **I dont like things**
 
